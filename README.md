@@ -26,6 +26,7 @@ Build a career services platform.
 | 3   | Name                 | ------    |  [----]( LINK                           "Github user's profile")          |
 | 4   | Name                 | ------    |  [----]( LINK                           "Github user's profile")          |
 | 5   | Name                 | ------    |  [----]( LINK                           "Github user's profile")          |
+| 6   | Name                 | ------    |  [----]( LINK                           "Github user's profile")          |
 
 ## Technologies
 
